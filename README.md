@@ -6,8 +6,7 @@
 
 ## 🔗 Latest Release
 
-- **💾 Version 5005**
-  🔗 [Releases Page]()
+- **💾 Version 5005**: [Releases Page]()
 
 ---
 
