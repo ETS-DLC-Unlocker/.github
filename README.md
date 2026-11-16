@@ -7,8 +7,8 @@
 ## 🔗 Latest Release
 
 - **💾 Version 5005**
- 🔗 [Releases Page]()
-  
+  🔗 [Releases Page]()
+
 ---
 
 # 🗺️ Supported ETS2 DLCs
